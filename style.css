@@ -1,0 +1,14 @@
+@import url ("https://fonts.googleapis.com/css?family=Lora|Open+Sans")
+
+@import url ("components/container");
+@import url ("components/avatar.css");
+@import url (components/button.css");
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 16px;
+}
+h1, h2, h3 {
+	font-family:'Open sans' sans-serif;
+	font-weight:bold;
+}
